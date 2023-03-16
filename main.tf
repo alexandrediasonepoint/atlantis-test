@@ -1,2 +1,2 @@
-resource "null_resource" "exambetter2" {
+resource "null_resource" "exambetter" {
 }
