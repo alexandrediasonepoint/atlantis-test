@@ -1,2 +1,2 @@
-resource "null_resource" "lock" {
+resource "null_resource" "lock2" {
 }
